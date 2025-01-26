@@ -3,7 +3,7 @@
 
 ![Go](https://img.shields.io/badge/Go-1.20%2B-blue) ![Ebiten](https://img.shields.io/badge/Ebiten-v2.4.0-green)  
 
-**go-spacewar** is a small 2D game developed as a learning project to learn basic Go syntax.One of the first go programs i wrote.  
+**go-spacewar** is a small 2D game developed as a learning project to learn basic Go syntax. One of the first go programs i ever wrote.  
 
 ---
 
@@ -12,7 +12,7 @@
   - **WASD** for spaceship movement  
   - **Shift** key to fire weapons  
 - **Basic Physics**: Implement collision detection and projectile mechanics  
-- **Retro Aesthetic**: Pixel-art-style graphics for a nostalgic feel  
+- **Graphics**: Pixel-art-style for simplicity  
 ---
 
 ## Gameplay Preview  
@@ -27,4 +27,4 @@
 ---
 
 ## Installation  
--You can just download the releases suited to your os.
+-You can just download the release suited to your os.
