@@ -27,4 +27,4 @@
 ---
 
 ## Installation  
--You can just download the release suited to your os.
+You can just download the release suited to your os.
