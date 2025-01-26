@@ -8,7 +8,7 @@
 ---
 
 ## Features  
-- **Controls Controls**:  
+- **Controls**:  
   - **WASD** for spaceship movement  
   - **Shift** key to fire weapons  
 - **Basic Physics**: Implement collision detection and projectile mechanics  
