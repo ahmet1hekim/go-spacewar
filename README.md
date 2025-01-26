@@ -20,7 +20,7 @@
   <img src="./readmeimages/ig.png" width="45%" alt="In-game screenshot">
   <img src="./readmeimages/pause.png" width="45%" alt="Pause menu">
   <br>
-  <em>Left: Active gameplay | Right: Pause menu interface</em>
+  <em>Left: Active gameplay | Right: Pause menu </em>
 </div>
 
 
