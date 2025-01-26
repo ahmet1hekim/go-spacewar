@@ -16,8 +16,7 @@
 ---
 
 ## Gameplay Preview  
-![Gameplay Screenshot](./readmeimages/ig.png)  
-![Pause Menu Screenshot](./readmeimages/pause.png)  
+![Gameplay Screenshot](./readmeimages/ig.png)  ![Pause Menu Screenshot](./readmeimages/pause.png)  
 
 *Example of gameplay mechanics and controls*  
 
