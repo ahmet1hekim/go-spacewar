@@ -27,4 +27,20 @@
 ---
 
 ## Installation  
+
+### releases
 You can just download the release suited to your os.
+
+### from source 
+
+```bash
+# Clone the repository
+git clone https://github.com/ahmet1hekim/go-spacewar
+cd go-spacewar
+
+# Install dependencies
+go mod tidy
+
+# Build and install
+go build -o go-spacewar
+sudo mv go-spacewar /usr/local/bin/
