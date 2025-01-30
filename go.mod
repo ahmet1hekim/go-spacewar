@@ -1,4 +1,4 @@
-module g
+module go-spacewar
 
 go 1.23.5
 
